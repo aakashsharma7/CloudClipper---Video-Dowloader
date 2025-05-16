@@ -2,7 +2,7 @@
 
 CloudClipper is a modern, efficient, and user-friendly video downloader built with Next.js. Download videos from various platforms with ease and style.
 
-![CloudClipper Preview](c:\Users\manic\AppData\Local\Packages\MicrosoftWindows.Client.Core_cw5n1h2txyewy\TempState\ScreenClip\{2A670DA1-8C12-44E0-8D2B-DC40232CCA5C}.png)
+![CloudClipper Preview](../ss.jpg)
 
 ## ✨ Features
 
