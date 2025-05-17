@@ -2,8 +2,6 @@
 
 CloudClipper is a modern, efficient, and user-friendly video downloader built with Next.js. Download videos from various platforms with ease and style.
 
-![CloudClipper Preview](./public/ss.jpg)
-
 ## ✨ Features
 
 - 🎥 Download videos from multiple platforms
